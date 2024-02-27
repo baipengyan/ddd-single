@@ -7,4 +7,4 @@
  * @version 1.0
  * @since JDK 1.8
  */
-package com.beloved.dddsingle.infrastructure.business.order.gatewayimpl;
+package com.beloved.dddsingle.infrastructure.business.customer.gatewayimpl;

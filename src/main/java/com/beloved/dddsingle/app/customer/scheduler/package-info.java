@@ -5,4 +5,4 @@
  * @version 1.0
  * @since JDK 1.8
  */
-package com.beloved.dddsingle.app.order.scheduler;
+package com.beloved.dddsingle.app.customer.scheduler;

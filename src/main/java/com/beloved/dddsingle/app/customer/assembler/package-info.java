@@ -9,4 +9,4 @@
  * @version 1.0
  * @since JDK 1.8
  */
-package com.beloved.dddsingle.app.order.assembler;
+package com.beloved.dddsingle.app.customer.assembler;

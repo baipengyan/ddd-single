@@ -1,7 +1,8 @@
 /**
- * TODO
+ * 统一响应
  *
  * @author baipengyan
  * @version 1.0
  * @since JDK 1.8
- */package com.beloved.dddsingle.client.dto.data;
+ */
+package com.beloved.dddsingle.client.dto.data;

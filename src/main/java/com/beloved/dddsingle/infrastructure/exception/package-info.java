@@ -1,7 +1,8 @@
 /**
- * TODO
+ * 统一异常
  *
  * @author baipengyan
  * @version 1.0
  * @since JDK 1.8
- */package com.beloved.dddsingle.infrastructure.exception;
+ */
+package com.beloved.dddsingle.infrastructure.exception;

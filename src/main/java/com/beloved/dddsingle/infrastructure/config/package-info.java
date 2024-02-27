@@ -1,7 +1,8 @@
 /**
- * TODO
+ * 配置信息
  *
  * @author baipengyan
  * @version 1.0
  * @since JDK 1.8
- */package com.beloved.dddsingle.infrastructure.config;
+ */
+package com.beloved.dddsingle.infrastructure.config;
